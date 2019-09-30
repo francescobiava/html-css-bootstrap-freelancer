@@ -76,3 +76,46 @@ header {
     display: inline-block;
   }
 }
+
+/* section1 */
+.section1 {
+  padding: 120px 0;
+  background-color: #1abc9c;
+}
+
+.avatar {
+  width: 250px;
+}
+
+.section1 h1 {
+  font-size: 4em;
+  font-weight: 800;
+  color: #fff;
+  margin: 25px 0;
+}
+
+.line {
+  display: inline-block;
+  height: 5px;
+  width: 100px;
+  margin: 0 10px 15px;
+  border-radius: 5px;
+}
+
+.star {
+  display: inline-block;
+  font-size: 2.5em;
+}
+
+.section1 p {
+  color: #fff;
+  font-size: 1.5em;
+}
+
+.section1 .line {
+  background-color: #fff;
+}
+
+.section1 .star {
+  color: #fff;
+}
