@@ -142,6 +142,7 @@ header {
 
 .portfolio img {
   width: 100%;
+  border-radius: 10px;
 }
 
 .portfolio .row div {
