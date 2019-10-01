@@ -271,3 +271,14 @@ footer .box p {
 footer .box span {
   color: #1abc9c;
 }
+
+footer .part2 {
+  background-color: #1a252f;
+
+}
+
+footer .part2 p {
+  font-size: 1em;
+  color: #fff;
+  margin: 20px;
+}
