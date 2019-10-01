@@ -242,3 +242,32 @@ header {
   background-color: #159a80;
   color: #fff;
 }
+
+/* footer */
+footer {
+  background-color: #2c3e50;
+}
+
+footer .part1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+footer .box {
+  color: #fff;
+  padding-bottom: 25px;
+}
+
+footer .box h3 {
+  font-size: 1.8em;
+  font-weight: 600;
+}
+
+footer .box p {
+  padding-top: 10px;
+  font-size: 1.4em;
+}
+
+footer .box span {
+  color: #1abc9c;
+}
