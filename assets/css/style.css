@@ -79,7 +79,7 @@ header {
 }
 
 /* section1 */
-.section1 {
+#section1 {
   padding: 120px 0;
   background-color: #1abc9c;
 }
@@ -88,7 +88,7 @@ header {
   width: 250px;
 }
 
-.section1 h1 {
+#section1 h1 {
   font-size: 4em;
   font-weight: 800;
   color: #fff;
@@ -108,43 +108,43 @@ header {
   font-size: 2.5em;
 }
 
-.section1 p {
+#section1 p {
   color: #fff;
   font-size: 1.5em;
 }
 
-.section1 .line {
+#section1 .line {
   background-color: #fff;
 }
 
-.section1 .star {
+#section1 .star {
   color: #fff;
 }
 
 /* section portfolio */
-.portfolio {
+#portfolio {
   margin-top: 60px;
 }
 
-.portfolio h2 {
+#portfolio h2 {
   font-size: 3em;
   font-weight: 800;
   color: #2c3e50;
 }
 
-.portfolio .line {
+#portfolio .line {
   background-color: #2c3e50;
 }
 
-.portfolio .star {
+#portfolio .star {
   color: #2c3e50;
 }
 
-.portfolio img {
+#portfolio img {
   width: 100%;
   border-radius: 10px;
 }
 
-.portfolio .row div {
+#portfolio .row div {
   margin: 15px 0;
 }
