@@ -63,8 +63,27 @@ header {
   margin: 40px;
 }
 
+#menu-md a {
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+#menu-md a:hover {
+  background-color: #159a80;
+}
+
 #menu-xs:hover .dropdown-content {
   display: block;
+}
+
+.dropdown-content a {
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.dropdown-content a:hover {
+  background-color: #159a80;
 }
 
 @media screen and (max-width: 991px) {
