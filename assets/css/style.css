@@ -124,6 +124,7 @@ header {
 /* section portfolio */
 #portfolio {
   margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 #portfolio h2 {
@@ -147,4 +148,48 @@ header {
 
 #portfolio .row div {
   margin: 15px 0;
+}
+
+/* section about */
+#about {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #1abc9c;
+}
+
+#about h2 {
+  font-size: 3em;
+  font-weight: 800;
+  color: #fff;
+}
+
+#about .line {
+  background-color: #fff;
+}
+
+#about .star {
+  color: #fff;
+}
+
+#about p {
+  text-align: left;
+  color: #fff;
+  font-size: 1.8em;
+}
+
+.text-about {
+  margin-top: 25px;
+}
+
+.download-button {
+  border: 2px solid #fff;
+  margin-top: 25px;
+  padding: 15px 25px;
+  font-size: 2em;
+  color: #fff;
+}
+
+.download-button:hover {
+  background-color: #fff;
+  color: #2c3e50;
 }
